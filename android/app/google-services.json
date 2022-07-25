@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14193648798",
+    "project_id": "mychatapp-35752",
+    "storage_bucket": "mychatapp-35752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14193648798:android:c7bb38a9d44a3b36c1878f",
+        "android_client_info": {
+          "package_name": "com.codeoclock.mychatapp.my_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14193648798-ggihqgvuuqab835qk0tbq990lfpk1qdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uSfCYsrHxluVzVhXRt6orzcGLv9SyGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14193648798-ggihqgvuuqab835qk0tbq990lfpk1qdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
